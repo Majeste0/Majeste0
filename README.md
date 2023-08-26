@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
-- 🔭 I’m currently working on **my food App.**
+<h3 align="center">Fullstack Developer</h3>
+
+- 🔭 I’m currently working on **my food App**
 
 - 🌱 I’m currently learning **Docker**
 
